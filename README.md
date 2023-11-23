@@ -6,7 +6,7 @@
 A passionate developer with a focus on Azure development and backend technologies, known for my proficiency in Java and Azure integration, contributing to amazing projects. My passion lies in creating seamless system integrations using Azure services. My expertise in Java, combined with my Azure skills, allows me to craft efficient solutions for complex challenges.
 
 ## 📫 How to reach me:
-- 📫 How to reach me: **rajanandirctc@gmail.com**
+- 📧 Mail: **rajanandirctc@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1TMe4tFmzeZs7KJ3V9NqDqE3Vgv74ZDc44LkxveVY0rM/edit?usp=sharing](https://docs.google.com/document/d/1TMe4tFmzeZs7KJ3V9NqDqE3Vgv74ZDc44LkxveVY0rM/edit?usp=sharing)
 
