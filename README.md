@@ -8,7 +8,7 @@ A passionate developer with a focus on Azure development and backend technologie
 ## 📫 How to reach me:
 - 📧 Mail: **rajanandirctc@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1TMe4tFmzeZs7KJ3V9NqDqE3Vgv74ZDc44LkxveVY0rM/edit?usp=sharing](https://docs.google.com/document/d/1TMe4tFmzeZs7KJ3V9NqDqE3Vgv74ZDc44LkxveVY0rM/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1TMe4tFmzeZs7KJ3V9NqDqE3Vgv74ZDc44LkxveVY0rM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
