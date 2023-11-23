@@ -30,7 +30,7 @@ const rajAnand = {
         backEnd: {
             technology: ["SpringBoot", "Javascript"],
         },
-        devOps: ["Azure", "AWS", "Docker🐳"],
+        devOps: ["Azure", "AWS", "Docker"],
         databases: ["mongo", "MySql", "CosmosDB"]
     },
     🏗 architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
