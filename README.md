@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Raj Anand! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em><strong>Azure Integration Developer</strong> at <a href=>DownerGroup(TCS)
+<p><em><strong>Azure Integration Developer</strong>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 A passionate developer with a focus on Azure development and backend technologies, known for my proficiency in Java and Azure integration, contributing to amazing projects. My passion lies in creating seamless system integrations using Azure services. My expertise in Java, combined with my Azure skills, allows me to craft efficient solutions for complex challenges.
@@ -8,7 +8,7 @@ A passionate developer with a focus on Azure development and backend technologie
 ## 📫 How to reach me:
 - 📧 Mail: **rajanandirctc@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1TMe4tFmzeZs7KJ3V9NqDqE3Vgv74ZDc44LkxveVY0rM/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
